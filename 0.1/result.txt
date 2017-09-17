@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" name="viewport">
+<title>Steins;Gate | Bangumi 番组计划</title>
+<meta name="keywords" content="命运石之门,Steins;Gate,ACG,anime,comic,game,music,动漫,音乐,游戏,动画,漫画,番组,bangumi,chii,chobits" />
+<meta name="description" content="Steins;Gate 命运石之门的介绍、章节信息、人物介绍" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://bangumi.tv/static/xml/opensearch_bgm.xml" title="Bangumi 番组计划" />
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon-precomposed" href="/img/ico/ico_ios.png" />
+
+<!--[if lte IE 6]>
+<script src="/js/pngfixed.js" type="text/javascript"></script>
+<script>
+  DD_belatedPNG.fix('.png_bg,img,#wrapper');
+</script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/min/g=css?r280" />
+<script type="text/javascript">var SHOW_ROBOT = '0',CHOBITS_UID = 0, SITE_URL = 'http://bangumi.tv';</script>
+</head>
+<body class="bangumi">
+<div id="wrapperNeue" class="wrapperNeue">
+<div id="headerNeue2">
+    <div class="headerNeueInner clearit">
+         <div class="bg musume_6"></div>
+    <a href="/" class="logo">Bangumi 番组计划</a>
+    
+<input type="checkbox" id="navMenuNeueToggle" />    	
+<label for="navMenuNeueToggle" class="menuCompact"></label>    
+    
+<div id="navNeue2">
+<div id="menuNeue">
+<ul id="navMenuNeue" class="clearit">
+<li><a href="/anime" class="focus chl anime"><span>动画</span></a>
+    			<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/anime/chart" class="nav">排行榜</a></li>
+<li><a href="/calendar" class="nav">每日放送</a></li>
+<li><a href="/anime/tag" class="nav">动画标签</a></li>
+<li><a href="/anime/browser" class="nav">分类浏览</a></li>
+<li><a href="/anime/blog" class="nav">动画日志</a></li>
+</ul>
+</li>
+<li><a href="/book" class="top chl"><span>书籍</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/book/chart" class="nav">排行榜</a></li>
+<li><a href="/book/tag" class="nav">图书标签</a></li>
+<li><a href="/book/browser" class="nav">分类浏览</a></li>
+<li><a href="/book/blog" class="nav">图书日志</a></li>
+</ul>
+</li>
+<li><a href="/music" class="top chl"><span>音乐</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/music/chart" class="nav">排行榜</a></li>
+<li><a href="/music/tag" class="nav">音乐标签</a></li>
+<li><a href="/music/browser" class="nav">浏览全部</a></li>
+<li><a href="/music/blog" class="nav">音乐日志</a></li>
+</ul>
+</li>
+<li><a href="/game" class="top chl"><span>游戏</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/game/chart" class="nav">排行榜</a></li>
+<li><a href="/game/tag" class="nav">游戏标签</a></li>
+<li><a href="/game/browser" class="nav">平台浏览</a></li>
+<li><a href="/game/blog" class="nav">游戏日志</a></li>
+</ul>
+</li>
+<li><a href="/real" class="top chl real"><span>三次元</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/real/chart" class="nav">排行榜</a></li>
+<li><a href="/real/tag" class="nav">三次元标签</a></li>
+<li><a href="/real/blog" class="nav">三次元日志</a></li>
+<li><a href="/real/browser/platform/jp" class="nav">日剧</a></li>
+<li><a href="/real/browser/platform/en" class="nav">欧美剧</a></li>
+</ul>
+</li>
+            <li><a href="/mono" class="top"><span>人物</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/character" class="nav">虚构人物</a></li>
+<li><a href="/person" class="nav">现实人物</a></li>
+	
+</ul>
+</li>
+<li><a href="/rakuen" class="top_lite"><span>超展开</span></a></li>
+<li><a href="/group"class="top"><span>小组</span></a>
+<div class="clear"></div>
+<ul class="clearit">
+<li><a href="/group/discover" class="nav">随便看看</a></li>
+<li><a href="/group/all" class="nav">所有小组</a></li>
+</ul>
+</li>
+<li><a href="javascript:void(0);" class="top"><span>探索</span></a>
+<div class="clear"></div>
+<ul class="explore clearit">
+
+<li class="single"><a href="/timeline">时空管理局</a></li>		
+                <li class="group">
+<span><a href="/blog">日志</a><a href="/index">目录</a><a href="/wiki">维基人</a></span>
+</li>				
+<li class="group"><span><a href="/magi">MAGI 问答</a><a href="/dollars">Dollars</a></span></li>				
+                <li class="group">
+<span class="root">客户端</span>
+<span><a href="/onair">onAir</a><a href="/group/topic/5155">Mobile</a></span>
+</li>				
+</ul>
+</li>
+<li class="doujin"><a href="http://doujin.bangumi.tv">天窗联盟</a></li>
+</ul>	
+</div>
+</div>
+        
+    <div class="idBadgerNeue">
+    <div class="guest"><a href="http://bangumi.tv/login" class="guest login">登录</a><a href="http://bangumi.tv/signup" class="guest signup">注册</a></div>
+	
+</div><div id="headerSearchWrapper">
+<div id="headerSearch">
+        <form action="/subject_search" method="post">
+    <div class="inner">
+<select name="cat" id="siteSearchSelect">
+<option value="all">全部</option>
+<option value="2" selected="selected">动画</option>
+<option value="1">书籍</option>
+<option value="4">游戏</option>
+<option value="3">音乐</option>
+<option value="6">三次元</option>
+<option value="person">人物</option>			
+</select>
+<input id="search_text" name="search_text" class="textfield" type="text" />
+        <input type="submit" name="submit" value="搜索" class="search" />
+    </div>
+</form>
+    </div>   
+</div>  
+    </div>
+</div>
+
+<div id="main" class="png_bg"></div>
+<div id="headerSubject" class="clearit" xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Movie">
+<h1 class="nameSingle">
+   <a href="/subject/10380" title="命运石之门" property="v:itemreviewed">Steins;Gate</a>
+                 <small class="grey">TV</small>   </h1>
+
+    
+        
+    <div class="subjectNav">
+<ul class="navTabs clearit">
+        <li><a href="/subject/10380" class="focus">概览</a></li>
+        <li><a href="/subject/10380/ep" >章节</a></li>        <li><a href="/subject/10380/characters" >角色</a></li>
+        <li><a href="/subject/10380/persons" >制作人员</a></li>
+        <li><a href="/subject/10380/comments" >吐槽</a></li>        
+        <li><a href="/subject/10380/reviews" >评论</a></li>
+        <li><a href="/subject/10380/board" >讨论版</a></li>
+        </ul>
+	
+</div>
+</div>
+<div class="mainWrapper"><div class="columns clearit" xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Movie">
+<div id="columnSubjectHomeA" class="column">
+    <div id="bangumiInfo">
+<div class="infobox">
+<div align="center">
+<a href="//lain.bgm.tv/pic/cover/l/a9/79/10380_HrKrm.jpg" title="Steins;Gate 命运石之门" alt="Steins;Gate 命运石之门" class="thickbox cover"><img src="//lain.bgm.tv/pic/cover/c/a9/79/10380_HrKrm.jpg" class="cover" /></a>
+</div>
+<ul id="infobox">
+                            <li><span class="tip">中文名: </span>命运石之门</li>
+                
+            
+                            <li><span class="tip">话数: </span>25</li>
+                
+            
+                            <li><span class="tip">放送开始: </span>2011年4月5日</li>
+                
+            
+                            <li><span class="tip">原作: </span><a href="/person/3229" class="l" title="">5pb.</a>、<a href="/person/1736" class="l" title="">Nitro+</a>+</li>
+                
+            
+                            <li><span class="tip">导演: </span><a href="/person/200" class="l" title="滨崎博嗣" rel="v:directedBy">佐藤卓哉</a>、<a href="/person/1208" class="l" title="滨崎博嗣" rel="v:directedBy">浜崎博嗣</a>、<a href="/person/2904" class="l" title="小林智树" rel="v:directedBy">小林智樹</a>(第25話)</li>
+                
+            
+                            <li><span class="tip">脚本: </span><a href="/person/6028" class="l" title="滨崎博嗣">林直孝</a>、<a href="/person/2661" class="l" title="根元岁三">根元歳三</a>、<a href="/person/262" class="l" title="花田十辉">花田十輝</a>、<a href="/person/3296" class="l" title="花田十辉">横谷昌宏</a></li>
+                
+            
+                            <li><span class="tip">分镜: </span><a href="/person/2904" class="l" title="小林智树">小林智樹</a>、<a href="/person/1208" class="l" title="滨崎博嗣">浜崎博嗣</a>、<a href="/person/12598" class="l" title="若林汉二">若林漢二</a>、<a href="/person/16014" class="l" title="若林汉二">村川健一郎</a>、<a href="/person/15943" class="l" title="佐藤真二">サトウシンジ</a>、<a href="/person/608" class="l" title="小泽一浩">おざわかずひろ</a>、<a href="/person/11946" class="l" title="小泽一浩">池田重隆</a>、<a href="/person/89" class="l" title="小泽一浩">加藤敏幸</a>、<a href="/person/200" class="l" title="小泽一浩">佐藤卓哉</a>、<a href="/person/118" class="l" title="小泽一浩">小林常夫</a></li>
+                
+            
+                            <li><span class="tip">演出: </span><a href="/person/12410" class="l" title="立川让">立川譲</a>、<a href="/person/2904" class="l" title="小林智树">小林智樹</a>、<a href="/person/1208" class="l" title="滨崎博嗣">浜崎博嗣</a>、<a href="/person/12598" class="l" title="若林汉二">若林漢二</a>、<a href="/person/16007" class="l" title="若林汉二">平向智子</a>、<a href="/person/608" class="l" title="小泽一浩">おざわかずひろ</a>、<a href="/person/11946" class="l" title="小泽一浩">池田重隆</a>、<a href="/person/200" class="l" title="小泽一浩">佐藤卓哉</a>、<a href="/person/14199" class="l" title="小泽一浩">下田久人</a>、<a href="/person/12359" class="l" title="小泽一浩">土屋浩幸</a>、<a href="/person/26201" class="l" title="小泽一浩">小林公二</a>、<a href="/person/26918" class="l" title="美甘义人">美甘義人</a></li>
+                
+            
+                            <li><span class="tip">音乐: </span><a href="/person/7337" class="l" title="阿保刚">阿保剛</a>、<a href="/person/13267" class="l" title="村上纯">村上純</a></li>
+                
+            
+                            <li><span class="tip">人物原案: </span><a href="/person/6505" class="l" title="">huke</a></li>
+                
+            
+                            <li><span class="tip">人物设定: </span><a href="/person/781" class="l" title="">坂井久太</a></li>
+                
+            
+                            <li><span class="tip">系列构成: </span><a href="/person/262" class="l" title="花田十辉">花田十輝</a></li>
+                
+            
+                            <li><span class="tip">美术监督: </span><a href="/person/13143" class="l" title="卫藤功二">衛藤功二</a></li>
+                
+            
+                            <li><span class="tip">色彩设计: </span><a href="/person/468" class="l" title="佐藤美由纪">佐藤美由紀</a></li>
+                
+            
+                            <li><span class="tip">总作画监督: </span><a href="/person/781" class="l" title="佐藤美由纪">坂井久太</a></li>
+                
+            
+                            <li><span class="tip">作画监督: </span><a href="/person/781" class="l" title="稻吉朝子">坂井久太</a>、<a href="/person/16018" class="l" title="">山本善哉</a>、<a href="/person/16023" class="l" title="">武本大介</a>、<a href="/person/12192" class="l" title="稻吉朝子">稲吉朝子</a>、<a href="/person/12564" class="l" title="稻吉朝子">新井伸浩</a>、<a href="/person/25486" class="l" title="稻吉朝子">吉井弘幸</a>、<a href="/person/26751" class="l" title="泉保良辅">泉保良輔</a></li>
+                
+            
+                            <li><span class="tip">摄影监督: </span><a href="/person/2941" class="l" title="泉保良辅">中村圭介</a></li>
+                
+            
+                            <li><span class="tip">原画: </span><a href="/person/1125" class="l" title="泉保良辅">久行宏和</a>、<a href="/person/781" class="l" title="泉保良辅">坂井久太</a>、<a href="/person/12343" class="l" title="泉保良辅">碇谷敦</a>、<a href="/person/12227" class="l" title="富冈宽">冨岡寛</a>、<a href="/person/3205" class="l" title="富冈宽">佐藤利幸</a>、<a href="/person/26556" class="l" title="大石美绘">大石美絵</a>、<a href="/person/12792" class="l" title="大石美绘">伊藤良太</a></li>
+                
+            
+                            <li><span class="tip">背景美术: </span><a href="/person/6502" class="l" title="STUDIO EASTER">スタジオ・イースター</a></li>
+                
+            
+                            <li><span class="tip">剪辑: </span><a href="/person/12000" class="l" title="后藤正浩">後藤正浩</a></li>
+                
+            
+                            <li><span class="tip">主题歌演出: </span><a href="/person/5882" class="l" title="伊藤加奈子">いとうかなこ</a></li>
+                
+            
+                            <li><span class="tip">音响监督: </span><a href="/person/434" class="l" title="伊藤加奈子">藤山房伸</a></li>
+                
+            
+                            <li><span class="tip">特效: </span><a href="/person/11747" class="l" title="垣田由纪子">垣田由紀子</a></li>
+                
+            
+                            <li><span class="tip">助理制片人: </span><a href="/person/27929" class="l" title="河本纱知">河本紗知</a></li>
+                
+            
+                            <li><span class="tip">友情協力: </span><a href="/person/6844" class="l" title="">Dr.Pepper</a></li>
+                
+            
+                            <li><span class="tip">动画制作: </span><a href="/person/7512" class="l" title="">WHITE FOX</a></li>
+                
+            
+                            <li><span class="tip">CG 导演: </span><a href="/person/3420" class="l" title="相马洋">相馬洋</a></li>
+                
+            
+                            <li><span class="tip">美术设计: </span><a href="/person/28890" class="l" title="相马洋">金平和茂</a></li>
+                
+            
+                            <li><span class="tip">OP・ED 分镜: </span><a href="/person/200" class="l" title="相马洋">佐藤卓哉</a></li>
+                
+            
+                            <li><span class="tip">总导演: </span><a href="/person/200" class="l" title="相马洋">佐藤卓哉</a>、<a href="/person/1208" class="l" title="滨崎博嗣">浜崎博嗣</a>(第25話)</li>
+                
+            
+                                                                                            <li><span class="tip">别名: </span>命運石之門</li>
+                        
+                        
+                                                                                <li><span class="tip" style="visibility:hidden;">别名: </span>シュタゲ</li>
+                        
+                        
+                                                                                <li><span class="tip" style="visibility:hidden;">别名: </span>石头门</li>
+                        
+                        
+                                                                                <li><span class="tip" style="visibility:hidden;">别名: </span>斯坦因之门</li>
+                        
+                        
+                                                                                <li><span class="tip" style="visibility:hidden;">别名: </span>シュタインズ・ゲート</li>
+                        
+                        
+                                            
+            
+                            <li><span class="tip">官方网站: </span>http://steinsgate.tv/</li>
+                
+            
+                            <li><span class="tip">播放结束: </span>2011年9月13日</li>
+                
+            
+                            <li><span class="tip">Copyright: </span>© 2009-2010 5pb. Inc./Nitroplus © 2011 5pb.／Nitroplus 未来ガジェット研究所</li>
+                
+            
+    </ul>
+        </div>
+</div>
+    <div id="subjectPanelIndex" class="SimpleSidePanel">
+<h2>推荐本条目的目录</h2>
+<ul class="groupsLine">            	    	<li class="clearit"><a href="/user/sha1360" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/05/48/54847.jpg?r=1497418546')"></span></a>
+    	<div class="innerWithAvatar"><a href="/index/16391" class="avatar l">2012</a><br />
+    	<small class="grey">by <a href="/user/sha1360" class="avatar">Pnyuu</a></small></div>
+    	</li>
+    	            	    	<li class="clearit"><a href="/user/tamaki" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/01/20/12002.jpg')"></span></a>
+    	<div class="innerWithAvatar"><a href="/index/414" class="avatar l">+2011·卯月餅屋+</a><br />
+    	<small class="grey">by <a href="/user/tamaki" class="avatar">栗野環。</a></small></div>
+    	</li>
+    	            	    	<li class="clearit"><a href="/user/tiesuiya" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/01/34/13415.jpg?r=1314121797')"></span></a>
+    	<div class="innerWithAvatar"><a href="/index/15542" class="avatar l">2011番组推荐</a><br />
+    	<small class="grey">by <a href="/user/tiesuiya" class="avatar">牙</a></small></div>
+    	</li>
+    	            	    	<li class="clearit"><a href="/user/kzsdjak" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/16/24/162426.jpg?r=1380191145')"></span></a>
+    	<div class="innerWithAvatar"><a href="/index/18778" class="avatar l">遗迹</a><br />
+    	<small class="grey">by <a href="/user/kzsdjak" class="avatar">残月夕阳</a></small></div>
+    	</li>
+    	            	    	<li class="clearit"><a href="/user/serein" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/04/29/42946.jpg?r=1310471339')"></span></a>
+    	<div class="innerWithAvatar"><a href="/index/660" class="avatar l">动画片</a><br />
+    	<small class="grey">by <a href="/user/serein" class="avatar">凤梨</a></small></div>
+    	</li>
+    	            	            	            	            	            	</ul>
+<span class="tip_i">/ <a href="/subject/10380/index" class="l">更多目录</a> </span>
+</div>
+
+<div id="subjectPanelCollect" class="SimpleSidePanel">
+<h2>谁看这部动画? </h2>
+<ul class="groupsLine"><li class="clearit">
+<a href="/user/362996" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/icon.jpg')"></span></a>
+<div class="innerWithAvatar"><a href="/user/362996" class="avatar">古明地こいし</a><br />
+<small class="grey">5小时32分钟前想看</small></div></li><li class="clearit">
+<a href="/user/319256" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/31/92/319256.jpg?r=1486188563')"></span></a>
+<div class="innerWithAvatar"><a href="/user/319256" class="avatar">年糕喵</a><br />
+<small class="grey">10小时14分钟前想看</small></div></li><li class="clearit">
+<a href="/user/wlulu" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/06/66/66660.jpg?r=1326365007')"></span></a>
+<div class="innerWithAvatar"><a href="/user/wlulu" class="avatar">呜噜呜噜</a><span class="sstars10 starsinfo"></span><br />
+<small class="grey">11小时11分钟前看过</small></div></li><li class="clearit">
+<a href="/user/caojuncheng" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/12/22/122225.jpg?r=1471254989')"></span></a>
+<div class="innerWithAvatar"><a href="/user/caojuncheng" class="avatar">なずき</a><br />
+<small class="grey">18小时44分钟前想看</small></div></li><li class="clearit">
+<a href="/user/infrared415" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/23/45/234593.jpg?r=1495578294')"></span></a>
+<div class="innerWithAvatar"><a href="/user/infrared415" class="avatar">量苛</a><span class="sstars7 starsinfo"></span><br />
+<small class="grey">18小时49分钟前看过</small></div></li></ul>
+<span class="tip_i"> / <a href="/subject/10380/wishes" class="l">1186人想看</a> / <a href="/subject/10380/collections" class="l">10166人看过</a> / <a href="/subject/10380/doings" class="l">1068人在看</a> / <a href="/subject/10380/on_hold" class="l">497人搁置</a> / <a href="/subject/10380/dropped" class="l">197人抛弃</a></span>
+</div>
+
+</div>
+<div id="columnSubjectHomeB" class="column">
+   <div id="columnSubjectInHomeB" class="clearit">
+           	<div id="subject_detail" class="ll">	
+     
+<div class="subject_prg">
+<span class="tip">章节列表</span>  <a href="/subject/10380/ep" class="l">[全部]</a>:
+<br />
+<ul class="prg_list">                    <li><a href="/ep/84517"  id="prg_84517" class="load-epinfo epBtnAir" title="ep.1 始まりと終わりのプロローグ" rel="#prginfo_84517">01</a></li>
+            <li><a href="/ep/84518"  id="prg_84518" class="load-epinfo epBtnAir" title="ep.2 時間跳躍のパラノイア" rel="#prginfo_84518">02</a></li>
+            <li><a href="/ep/84519"  id="prg_84519" class="load-epinfo epBtnAir" title="ep.3 並列過程のパラノイア" rel="#prginfo_84519">03</a></li>
+            <li><a href="/ep/84520"  id="prg_84520" class="load-epinfo epBtnAir" title="ep.4 空理彷徨のランデヴー" rel="#prginfo_84520">04</a></li>
+            <li><a href="/ep/84521"  id="prg_84521" class="load-epinfo epBtnAir" title="ep.5 電荷衝突のランデヴー" rel="#prginfo_84521">05</a></li>
+            <li><a href="/ep/84522"  id="prg_84522" class="load-epinfo epBtnAir" title="ep.6 蝶翼のダイバージェンス" rel="#prginfo_84522">06</a></li>
+            <li><a href="/ep/84523"  id="prg_84523" class="load-epinfo epBtnAir" title="ep.7 断層のダイバージェンス" rel="#prginfo_84523">07</a></li>
+            <li><a href="/ep/84524"  id="prg_84524" class="load-epinfo epBtnAir" title="ep.8 夢幻のホメオスタシス" rel="#prginfo_84524">08</a></li>
+            <li><a href="/ep/84525"  id="prg_84525" class="load-epinfo epBtnAir" title="ep.9 幻相のホメオスタシス" rel="#prginfo_84525">09</a></li>
+            <li><a href="/ep/84526"  id="prg_84526" class="load-epinfo epBtnAir" title="ep.10 相生のホメオスタシス" rel="#prginfo_84526">10</a></li>
+            <li><a href="/ep/84527"  id="prg_84527" class="load-epinfo epBtnAir" title="ep.11 時空境界のドグマ" rel="#prginfo_84527">11</a></li>
+            <li><a href="/ep/84715"  id="prg_84715" class="load-epinfo epBtnAir" title="ep.12 静止限界のドグマ" rel="#prginfo_84715">12</a></li>
+            <li><a href="/ep/91560"  id="prg_91560" class="load-epinfo epBtnAir" title="ep.13 形而上のネクローシス" rel="#prginfo_91560">13</a></li>
+            <li><a href="/ep/91561"  id="prg_91561" class="load-epinfo epBtnAir" title="ep.14 形而下のネクローシス" rel="#prginfo_91561">14</a></li>
+            <li><a href="/ep/91562"  id="prg_91562" class="load-epinfo epBtnAir" title="ep.15 亡環上のネクローシス" rel="#prginfo_91562">15</a></li>
+            <li><a href="/ep/91563"  id="prg_91563" class="load-epinfo epBtnAir" title="ep.16 不可逆のネクローシス" rel="#prginfo_91563">16</a></li>
+            <li><a href="/ep/91564"  id="prg_91564" class="load-epinfo epBtnAir" title="ep.17 虚像歪曲のコンプレックス" rel="#prginfo_91564">17</a></li>
+            <li><a href="/ep/91565"  id="prg_91565" class="load-epinfo epBtnAir" title="ep.18 自己相似のアンドロギュヌス" rel="#prginfo_91565">18</a></li>
+            <li><a href="/ep/91566"  id="prg_91566" class="load-epinfo epBtnAir" title="ep.19 無限連鎖のアポトーシス" rel="#prginfo_91566">19</a></li>
+            <li><a href="/ep/91567"  id="prg_91567" class="load-epinfo epBtnAir" title="ep.20 怨嗟断絶のアポトーシス" rel="#prginfo_91567">20</a></li>
+            <li><a href="/ep/91568"  id="prg_91568" class="load-epinfo epBtnAir" title="ep.21 因果律のメルト" rel="#prginfo_91568">21</a></li>
+            <li><a href="/ep/91569"  id="prg_91569" class="load-epinfo epBtnAir" title="ep.22 存在了解のメルト" rel="#prginfo_91569">22</a></li>
+            <li><a href="/ep/91570"  id="prg_91570" class="load-epinfo epBtnAir" title="ep.23 境界面上のシュタインズゲート" rel="#prginfo_91570">23</a></li>
+            <li><a href="/ep/91571"  id="prg_91571" class="load-epinfo epBtnAir" title="ep.24 終わりと始まりのプロローグ" rel="#prginfo_91571">24</a></li>
+            <li class="subtitle"><span>SP</span></li>            <li><a href="/ep/589408"  id="prg_589408" class="load-epinfo epBtnAir" title="ep.23 (β) 境界面上のミッシングリンク" rel="#prginfo_589408">23</a></li>
+            <li><a href="/ep/150204"  id="prg_150204" class="load-epinfo epBtnAir" title="ep.25 横行跋扈のポリオマニア" rel="#prginfo_150204">25</a></li>
+    </ul>
+<div class="clear"></div>
+<script type="text/javascript">var INTEREST_TYPE = 0;var EpBtn = 'N';var CHOBITS_UID = 0;</script>
+<script src="/min/g=ajax?r280" type="text/javascript"></script>
+<div id="subject_prg_content"><div id="prginfo_84517" class="prg_popup"><span class="tip">中文标题:始与终的序章<br />首播:2011-04-05<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84517" class="l icons_cmt">讨论</a> <small class="na">(+79)</small></span></span></div><div id="prginfo_84518" class="prg_popup"><span class="tip">中文标题:时间跳跃的偏执狂<br />首播:2011-04-12<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84518" class="l icons_cmt">讨论</a> <small class="na">(+35)</small></span></span></div><div id="prginfo_84519" class="prg_popup"><span class="tip">中文标题:并列过程的偏执狂<br />首播:2011-04-19<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84519" class="l icons_cmt">讨论</a> <small class="na">(+20)</small></span></span></div><div id="prginfo_84520" class="prg_popup"><span class="tip">中文标题:空谈彷徨的交汇<br />首播:2011-04-26<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84520" class="l icons_cmt">讨论</a> <small class="na">(+24)</small></span></span></div><div id="prginfo_84521" class="prg_popup"><span class="tip">中文标题:电荷冲突的交汇<br />首播:2011-05-03<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84521" class="l icons_cmt">讨论</a> <small class="na">(+34)</small></span></span></div><div id="prginfo_84522" class="prg_popup"><span class="tip">中文标题:蝶翼的发散<br />首播:2011-05-10<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84522" class="l icons_cmt">讨论</a> <small class="na">(+23)</small></span></span></div><div id="prginfo_84523" class="prg_popup"><span class="tip">中文标题:断层的发散<br />首播:2011-05-17<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84523" class="l icons_cmt">讨论</a> <small class="na">(+18)</small></span></span></div><div id="prginfo_84524" class="prg_popup"><span class="tip">中文标题:梦幻的恒定状态<br />首播:2011-05-24<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84524" class="l icons_cmt">讨论</a> <small class="na">(+41)</small></span></span></div><div id="prginfo_84525" class="prg_popup"><span class="tip">中文标题:幻相的恒定状态<br />首播:2011-05-31<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84525" class="l icons_cmt">讨论</a> <small class="na">(+49)</small></span></span></div><div id="prginfo_84526" class="prg_popup"><span class="tip">中文标题:相生的恒定状态<br />首播:2011-06-07<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84526" class="l icons_cmt">讨论</a> <small class="na">(+32)</small></span></span></div><div id="prginfo_84527" class="prg_popup"><span class="tip">中文标题:时空境界的教义<br />首播:2011-06-14<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84527" class="l icons_cmt">讨论</a> <small class="na">(+33)</small></span></span></div><div id="prginfo_84715" class="prg_popup"><span class="tip">中文标题:静止界限的教义<br />首播:2011-06-21<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/84715" class="l icons_cmt">讨论</a> <small class="na">(+51)</small></span></span></div><div id="prginfo_91560" class="prg_popup"><span class="tip">中文标题:形而上的坏死<br />首播:2011-06-28<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91560" class="l icons_cmt">讨论</a> <small class="na">(+68)</small></span></span></div><div id="prginfo_91561" class="prg_popup"><span class="tip">中文标题:形而下的坏死<br />首播:2011-07-05<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91561" class="l icons_cmt">讨论</a> <small class="na">(+57)</small></span></span></div><div id="prginfo_91562" class="prg_popup"><span class="tip">中文标题:亡环上的坏死<br />首播:2011-07-12<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91562" class="l icons_cmt">讨论</a> <small class="na">(+30)</small></span></span></div><div id="prginfo_91563" class="prg_popup"><span class="tip">中文标题:不可逆的坏死<br />首播:2011-07-19<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91563" class="l icons_cmt">讨论</a> <small class="na">(+49)</small></span></span></div><div id="prginfo_91564" class="prg_popup"><span class="tip">中文标题:虚像歪曲的情意综<br />首播:2011-07-26<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91564" class="l icons_cmt">讨论</a> <small class="na">(+29)</small></span></span></div><div id="prginfo_91565" class="prg_popup"><span class="tip">中文标题:自己相似的两性同体<br />首播:2011-08-02<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91565" class="l icons_cmt">讨论</a> <small class="na">(+41)</small></span></span></div><div id="prginfo_91566" class="prg_popup"><span class="tip">中文标题:无限连锁的细胞凋亡<br />首播:2011-08-09<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91566" class="l icons_cmt">讨论</a> <small class="na">(+28)</small></span></span></div><div id="prginfo_91567" class="prg_popup"><span class="tip">中文标题:怨恨灭绝的细胞凋亡<br />首播:2011-08-16<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91567" class="l icons_cmt">讨论</a> <small class="na">(+41)</small></span></span></div><div id="prginfo_91568" class="prg_popup"><span class="tip">中文标题:因果律的消散<br />首播:2011-08-23<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91568" class="l icons_cmt">讨论</a> <small class="na">(+24)</small></span></span></div><div id="prginfo_91569" class="prg_popup"><span class="tip">中文标题:存在了解的消散<br />首播:2011-08-30<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91569" class="l icons_cmt">讨论</a> <small class="na">(+77)</small></span></span></div><div id="prginfo_91570" class="prg_popup"><span class="tip">中文标题:境界面上的斯坦因之门<br />首播:2011-09-06<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91570" class="l icons_cmt">讨论</a> <small class="na">(+55)</small></span></span></div><div id="prginfo_589408" class="prg_popup"><span class="tip">中文标题:境界面上的迷失之链<br />首播:2015-12-02<br />时长:00:23:40<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/589408" class="l icons_cmt">讨论</a> <small class="na">(+14)</small></span></span></div><div id="prginfo_91571" class="prg_popup"><span class="tip">中文标题:终与始的序章<br />首播:2011-09-13<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/91571" class="l icons_cmt">讨论</a> <small class="na">(+77)</small></span></span></div><div id="prginfo_150204" class="prg_popup"><span class="tip">中文标题:横行跋扈的浪荡之徒<br />首播:2012-02-22<br /><hr class="board" /><span class="cmt clearit"><a href="/subject/ep/150204" class="l icons_cmt">讨论</a> <small class="na">(+52)</small></span></span></div></div>
+<script type="text/javascript">initSubjectPrgs(10380);</script>
+</div>
+    		    			<div id="subject_summary" class="subject_summary" property="v:summary">故事发生在「Chaos;HEAd」的“涩谷崩坏”事件一年半之后的世界，而舞台则从涩谷转移到了秋叶原。主角冈部伦太郎是一位深度中二病的大学生，时常幻想自己身肩重任，并自称“狂气的疯狂科学家・凤凰院凶真”，不过说到底其作为不过就是在名为“未来道具研究所”中与两个伙伴开发着奇奇怪怪又不切实际的东西。然而，这样的他们却在偶然间发明出可以把电子讯息传送过去的时间机器。在他们对未来及过去知道得越多的同时，却不知道危难正渐渐临到自己身上……</div>
+    			<small class="gery clearit"><a href="#;" id="show_summary"  class="rr l">more...</a></small>
+    		            <div class="subject_tag_section">
+<h2 class="subtitle">大家将 Steins;Gate 标注为</h2>
+<div class="inner"><a href="/anime/tag/%E4%B8%AD%E4%BA%8C%E7%97%85" class="l">中二病</a> <small class="grey">(1873)</small> &nbsp; <a href="/anime/tag/%E5%98%9F%E5%98%9F%E5%99%9C" class="l">嘟嘟噜</a> <small class="grey">(1273)</small> &nbsp; <a href="/anime/tag/%E8%8A%B1%E6%B3%BD%E9%A6%99%E8%8F%9C" class="l">花泽香菜</a> <small class="grey">(1142)</small> &nbsp; <a href="/anime/tag/%E7%A9%BA%E6%83%B3%E7%A7%91%E5%AD%A6" class="l">空想科学</a> <small class="grey">(1124)</small> &nbsp; <a href="/anime/tag/%E7%89%A7%E7%80%AC%E7%B4%85%E8%8E%89%E6%A0%96" class="l">牧瀬紅莉栖</a> <small class="grey">(1097)</small> &nbsp; <a href="/anime/tag/Nitro%2B" class="l">Nitro+</a> <small class="grey">(1063)</small> &nbsp; <a href="/anime/tag/2011%E5%B9%B44%E6%9C%88" class="l">2011年4月</a> <small class="grey">(932)</small> &nbsp; <a href="/anime/tag/%E5%AE%AB%E9%87%8E%E7%9C%9F%E5%AE%88" class="l">宫野真守</a> <small class="grey">(627)</small> &nbsp; <a href="/anime/tag/Steins" class="l">Steins</a> <small class="grey">(563)</small> &nbsp; <a href="/anime/tag/Gate" class="l">Gate</a> <small class="grey">(525)</small> &nbsp; <a href="/anime/tag/TV" class="l">TV</a> <small class="grey">(443)</small> &nbsp; <a href="/anime/tag/%E7%A7%91%E5%B9%BB" class="l">科幻</a> <small class="grey">(395)</small> &nbsp; <a href="/anime/tag/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C" class="l">花澤香菜</a> <small class="grey">(314)</small> &nbsp; <a href="/anime/tag/2011" class="l">2011</a> <small class="grey">(258)</small> &nbsp; <a href="/anime/tag/WHITEFOX" class="l">WHITEFOX</a> <small class="grey">(171)</small> &nbsp; <a href="/anime/tag/huke" class="l">huke</a> <small class="grey">(161)</small> &nbsp; <a href="/anime/tag/%E6%B8%B8%E6%88%8F%E6%94%B9" class="l">游戏改</a> <small class="grey">(139)</small> &nbsp; <a href="/anime/tag/%E5%91%BD%E8%BF%90%E7%9F%B3%E4%B9%8B%E9%97%A8" class="l">命运石之门</a> <small class="grey">(93)</small> &nbsp; <a href="/anime/tag/%E7%A9%BF%E8%B6%8A" class="l">穿越</a> <small class="grey">(92)</small> &nbsp; <a href="/anime/tag/GAL%E6%94%B9" class="l">GAL改</a> <small class="grey">(86)</small> &nbsp; <a href="/anime/tag/%E7%A5%9E%E4%BD%9C" class="l">神作</a> <small class="grey">(81)</small> &nbsp; <a href="/anime/tag/%E5%9B%9B%E6%9C%88%E7%95%AA" class="l">四月番</a> <small class="grey">(73)</small> &nbsp; <a href="/anime/tag/%E5%8A%A9%E6%89%8B" class="l">助手</a> <small class="grey">(67)</small> &nbsp; <a href="/anime/tag/5pb" class="l">5pb</a> <small class="grey">(63)</small> &nbsp; <a href="/anime/tag/%E4%B8%AD%E4%BA%8C" class="l">中二</a> <small class="grey">(61)</small> &nbsp; <a href="/anime/tag/%E4%BD%90%E8%97%A4%E5%8D%93%E5%93%89" class="l">佐藤卓哉</a> <small class="grey">(55)</small> &nbsp; <a href="/anime/tag/%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88" class="l">宮野真守</a> <small class="grey">(45)</small> &nbsp; <a href="/anime/tag/5pb." class="l">5pb.</a> <small class="grey">(43)</small> &nbsp; <a href="/anime/tag/%E4%BB%8A%E4%BA%95%E9%BA%BB%E7%BE%8E" class="l">今井麻美</a> <small class="grey">(37)</small> &nbsp; <a href="/anime/tag/%E7%9F%B3%E5%A4%B4%E9%97%A8" class="l">石头门</a> <small class="grey">(35)</small> &nbsp; </div>
+</div>
+    		
+    	   </div>
+    	   <div id="panelInterestWrapper">
+    	   <div class="SidePanel png_bg">
+<h2>收藏盒</h2>
+<div rel="v:rating">
+<div class="global_rating score9">
+<div class="rateEmo"></div>
+<div class="global_score">
+<span class="number" property="v:average">8.5</span>
+<span property="v:best" content="10.0"></span>
+<span class="description">神作</span><div><small class="grey">Bangumi Anime Ranked:</small><small class="alarm">#25</small></div>
+</div>
+</div>
+<div class="clear"></div>
+
+<div id="ChartWarpper" align="center">
+    <div class="chart_desc" style=""><small class="grey"><span property="v:votes">8898</span> votes</small></div>
+    <ul class="horizontalChart">
+        <li><a href="javascript:void(0)" title="1785人评分"><span class="label">10</span><span class="count" style="height:20.06%">(1785)</span></a></li>
+        <li><a href="javascript:void(0)" title="3161人评分"><span class="label">9</span><span class="count" style="height:35.52%">(3161)</span></a></li>
+        <li><a href="javascript:void(0)" title="2568人评分"><span class="label">8</span><span class="count" style="height:28.86%">(2568)</span></a></li>
+        <li><a href="javascript:void(0)" title="962人评分"><span class="label">7</span><span class="count" style="height:10.81%">(962)</span></a></li>
+        <li><a href="javascript:void(0)" title="267人评分"><span class="label">6</span><span class="count" style="height:3.00%">(267)</span></a></li>
+        <li><a href="javascript:void(0)" title="88人评分"><span class="label">5</span><span class="count" style="height:0.99%">(88)</span></a></li>
+        <li><a href="javascript:void(0)" title="25人评分"><span class="label">4</span><span class="count" style="height:0.28%">(25)</span></a></li>
+        <li><a href="javascript:void(0)" title="4人评分"><span class="label">3</span><span class="count" style="height:0.04%">(4)</span></a></li>
+        <li><a href="javascript:void(0)" title="9人评分"><span class="label">2</span><span class="count" style="height:0.10%">(9)</span></a></li>
+        <li><a href="javascript:void(0)" title="29人评分"><span class="label">1</span><span class="count" style="height:0.33%">(29)</span></a></li>
+        </ul>
+    </div>
+</div>
+</div>
+    	   <div class="shareBtn">
+    <span class="shareText">分享</span>
+    <a href="javascript:void(0);" title="分享到新浪微博" class="share share_sina">&nbsp;</a> 
+    <a href="javascript:void(0);" title="分享到豆瓣网" class="share share_douban">&nbsp;</a> 
+    <a href="javascript:void(0);" title="分享到腾讯微博" class="share share_qq">&nbsp;</a>
+    <a href="javascript:void(0);" title="分享到人人网" class="share share_renren">&nbsp;</a>
+    <a href="javascript:void(0);" title="分享到 Twitter" class="share share_twitter">&nbsp;</a>                                                
+</div> 
+    	   </div>
+        </div>
+        
+<div class="section_line clear"></div>
+
+        <div class="subject_section clearit">
+<h2 class="subtitle">角色介绍</h2>
+<div>
+<ul id="browserItemList" class="browserMedium" style="margin:5px 0 0 0;"><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+25)</small><strong><a href="/character/12392" title="岡部倫太郎 / 冈部伦太郎" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/af/40/12392_crt_1LQN8.jpg?r=1498930118" height="48" width="48" alt="岡部倫太郎 / 冈部伦太郎" class="avatar"></span>岡部倫太郎</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">主角</span></small>                 <span class="tip">冈部伦太郎</span><br />                                                                CV:                 <a href="/person/4697" rel="v:starring">宮野真守</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+73)</small><strong><a href="/character/12393" title="牧瀬紅莉栖 / 牧濑红莉栖" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/f7/2a/12393_crt_3ts0h.jpg?r=1501116301" height="48" width="48" alt="牧瀬紅莉栖 / 牧濑红莉栖" class="avatar"></span>牧瀬紅莉栖</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">主角</span></small>                 <span class="tip">牧濑红莉栖</span><br />                                                                CV:                 <a href="/person/4061" rel="v:starring">今井麻美</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+72)</small><strong><a href="/character/12381" title="椎名まゆり / 椎名真由理" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/b1/87/12381_crt_8T0F0.jpg?r=1498930097" height="48" width="48" alt="椎名まゆり / 椎名真由理" class="avatar"></span>椎名まゆり</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">主角</span></small>                 <span class="tip">椎名真由理</span><br />                                                                CV:                 <a href="/person/4765" rel="v:starring">花澤香菜</a>
+                        </span></div>
+</div>
+</li><li class="user  odd" style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+15)</small><strong><a href="/character/12399" title="橋田至 / 桥田至" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/0d/44/12399_crt_slzpl.jpg?r=1500879291" height="48" width="48" alt="橋田至 / 桥田至" class="avatar"></span>橋田至</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">主角</span></small>                 <span class="tip">桥田至</span><br />                                                                CV:                 <a href="/person/3868" rel="v:starring">関智一</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+0)</small><strong><a href="/character/50546" title="天王寺裕吾 / 天王寺裕吾" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/e5/c9/50546_crt_489aO.jpg?r=1498930004" height="48" width="48" alt="天王寺裕吾 / 天王寺裕吾" class="avatar"></span>天王寺裕吾</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">配角</span></small>                 <span class="tip">天王寺裕吾</span><br />                                                                CV:                 <a href="/person/5617" rel="v:starring">てらそままさき</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+9)</small><strong><a href="/character/17778" title="天王寺綯 / 天王寺绹" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/ba/8f/17778_crt_rp11M.jpg?r=1498929583" height="48" width="48" alt="天王寺綯 / 天王寺绹" class="avatar"></span>天王寺綯</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">配角</span></small>                 <span class="tip">天王寺绹</span><br />                                                                CV:                 <a href="/person/8274" rel="v:starring">山本彩乃</a>
+                        </span></div>
+</div>
+</li><li class="user  odd" style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+10)</small><strong><a href="/character/12398" title="フェイリス·ニャンニャン / 菲利斯·喵喵" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/80/52/12398_crt_AJFtd.jpg?r=1498930247" height="48" width="48" alt="フェイリス·ニャンニャン / 菲利斯·喵喵" class="avatar"></span>フェイリス·ニャンニャン</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">配角</span></small>                 <span class="tip">菲利斯·喵喵</span><br />                                                                CV:                 <a href="/person/3993" rel="v:starring">桃井はるこ</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+42)</small><strong><a href="/character/12396" title="漆原るか / 漆原露加" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/d4/26/12396_crt_B7zl4.jpg?r=1500878985" height="48" width="48" alt="漆原るか / 漆原露加" class="avatar"></span>漆原るか</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">配角</span></small>                 <span class="tip">漆原露加</span><br />                                                                CV:                 <a href="/person/4398" rel="v:starring">小林ゆう</a>
+                        </span></div>
+</div>
+</li><li class="user " style="margin:0pt 0pt 10px;">
+<div class="userContainer"><small class="fade rr">(+31)</small><strong><a href="/character/12394" title="阿万音鈴羽 / 阿万音铃羽" class="avatar">
+<span class="userImage"><img src="//lain.bgm.tv/pic/crt/s/ef/dd/12394_crt_C3l3d.jpg?r=1498929816" height="48" width="48" alt="阿万音鈴羽 / 阿万音铃羽" class="avatar"></span>阿万音鈴羽</a></strong>
+        <div><span class="tip_j">
+                <small><span class="badge_job">配角</span></small>                 <span class="tip">阿万音铃羽</span><br />                                                                CV:                 <a href="/person/3965" rel="v:starring">田村ゆかり</a>
+                        </span></div>
+</div>
+</li></ul>
+</div>
+<a href="/subject/10380/characters" class="more">更多角色 &raquo;</a></div>
+<div class="section_line"></div>
+        
+        <div class="subject_section">
+<div class="clearit">
+<h2 class="subtitle">关联条目</h2>
+</div>
+<div class="content_inner">
+<ul class="browserCoverMedium clearit"><li class="sep">
+<span class="sub">游戏</span>
+<a href="/subject/63973" title="命运石之门 线形拘束的树状图" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/aa/77/63973_bdSb3.jpg')"></span></a>
+<a href="/subject/63973" class="title">STEINS;GATE 線形拘束のフェノグラム</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/3154" title="命运石之门" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/fd/bd/3154_Quwbb.jpg')"></span></a>
+<a href="/subject/3154" class="title">STEINS;GATE</a>
+</li><li class="sep">
+<span class="sub">书籍</span>
+<a href="/subject/18243" title="STEINS;GATE─命运石之门─圆环连锁的衔尾蛇" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/79/b3/18243_gnA0Z.jpg')"></span></a>
+<a href="/subject/18243" class="title">STEINS;GATE─シュタインズ・ゲート─円環連鎖のウロボロス</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/40575" title="命运石之门 小说" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/ed/45/40575_3O3yf.jpg')"></span></a>
+<a href="/subject/40575" class="title">STEINS;GATE 小説</a>
+</li><li class="sep">
+<span class="sub">续集</span>
+<a href="/subject/23119" title="命运石之门 负荷领域的既视感" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/b2/b8/23119_82mKb.jpg')"></span></a>
+<a href="/subject/23119" class="title">Steins;Gate 負荷領域のデジャヴ</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/129807" title="命运石之门 0" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/f6/91/129807_6ELlc.jpg')"></span></a>
+<a href="/subject/129807" class="title">Steins;Gate 0</a>
+</li><li class="sep">
+<span class="sub">番外篇</span>
+<a href="/subject/115660" title="命运石之门 聪明睿智的认知计算" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/71/98/115660_QBb6z.jpg')"></span></a>
+<a href="/subject/115660" class="title">Steins;Gate 聡明叡智のコグニティブ・コンピューティング</a>
+</li><li class="sep">
+<span class="sub">游戏</span>
+<a href="/subject/101788" title="神圣之门" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/33/0a/101788_SeZWh.jpg')"></span></a>
+<a href="/subject/101788" class="title">ディバインゲート</a>
+</li><li class="sep">
+<span class="sub">相同世界观</span>
+<a href="/subject/129805" title="混沌子" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/84/a6/129805_daA4U.jpg')"></span></a>
+<a href="/subject/129805" class="title">CHAOS;CHILD</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/884" title="混沌头" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/17/0c/884_PPxeJ.jpg')"></span></a>
+<a href="/subject/884" class="title">CHAOS;HEAD</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/37673" title="机器人笔记" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/1c/4e/37673_HpP99.jpg')"></span></a>
+<a href="/subject/37673" class="title">Robotics;Notes</a>
+</li><li class="sep">
+<span class="sub">不同世界观</span>
+<a href="/subject/203861" title="超自然9人组" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/23/21/174544_wMupg.jpg')"></span></a>
+<a href="/subject/203861" class="title">Occultic;Nine -オカルティック・ナイン-</a>
+</li><li class="sep">
+<span class="sub">原声集</span>
+<a href="/subject/170863"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/20/0e/170863_jp.jpg')"></span></a>
+<a href="/subject/170863" class="title">The Sound of STEINS;GATE 魂</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/21471"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/b8/c8/21471_L8Y4s.jpg')"></span></a>
+<a href="/subject/21471" class="title">STEINS;GATE 未来ガジェットコンパクトディスク2号 サウンドトラック [バタフライ・エフェクト]</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/46930"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/14/55/46930_d9Bzz.jpg')"></span></a>
+<a href="/subject/46930" class="title">Steins;Gate 未来ガジェットコンパクトディスク 8号 サウンドトラックⅡ「イベント・ホライゾン」</a>
+</li><li class="sep">
+<span class="sub">角色歌</span>
+<a href="/subject/22578"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/8e/6a/22578_jjU0F.jpg')"></span></a>
+<a href="/subject/22578" class="title">STEINS;GATE 未来ガジェットコンパクトディスク3号</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/59172"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/5b/ad/59172_uleSE.jpg')"></span></a>
+<a href="/subject/59172" class="title">STEINS;GATE 未来ガジェットコンパクトディスク6号</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/75002"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/80/0c/75002_o2t5r.jpg')"></span></a>
+<a href="/subject/75002" class="title">STEINS;GATE 未来ガジェットコンパクトディスク9号 キャラクターソング「ラボメン☆スピリッツ」</a>
+</li><li class="sep">
+<span class="sub">片头曲</span>
+<a href="/subject/12635"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/ab/e6/12635_LIi5e.jpg')"></span></a>
+<a href="/subject/12635" class="title">Hacking to the Gate</a>
+</li><li class="sep">
+<span class="sub">片尾曲</span>
+<a href="/subject/12634"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/6d/ef/12634_m1mBO.jpg')"></span></a>
+<a href="/subject/12634" class="title">刻司ル十二ノ盟約</a>
+</li><li class="sep">
+<span class="sub">广播剧</span>
+<a href="/subject/74999"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/dc/4a/74999_GLCsg.jpg')"></span></a>
+<a href="/subject/74999" class="title">アンソロジードラマCD「シュタインズ・ゲート」幻視空間のリユニオン</a>
+</li><li >
+<span class="sub"></span>
+<a href="/subject/75001"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/35/fa/75001_uNu0W.jpg')"></span></a>
+<a href="/subject/75001" class="title">アンソロジードラマCD II「シュタインズ・ゲート」夢幻泡影のバケーション</a>
+</li><li class="sep">
+<span class="sub">其他</span>
+<a href="/subject/69454"  class="avatar "><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/3c/e3/69454_IhyXz.jpg')"></span></a>
+<a href="/subject/69454" class="title">STEINS;GATE VOCAL BEST</a>
+</li><li class="sep">
+<span class="sub">角色出演</span>
+<a href="/subject/33706" title="粘土人世纪" class="avatar thumbTip"><span class="avatarNeue avatarSize75" style="background-image:url('//lain.bgm.tv/pic/cover/m/e6/ca/33706_MKGBT.jpg')"></span></a>
+<a href="/subject/33706" class="title">ねんどろいど じぇねれ〜しょん</a>
+</li></ul>	
+</div>
+</div>
+<div class="section_line clear"></div>
+        
+        <div class="subject_section">
+<h2 class="subtitle">喜欢 "Steins;Gate" 的会员大概会喜欢</h2>
+<div class="content_inner clearit" align="left">
+<ul class="coversSmall"><li class="clearit">
+<a href="/subject/3154" title="STEINS;GATE"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/fd/bd/3154_Quwbb.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/3154" class="l">STEINS;GATE</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/3375" title="涼宮ハルヒの消失"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/9b/9b/3375_5905b.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/3375" class="l">涼宮ハルヒの消失</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/21942" title="幻想万華鏡 春雪異変の章 ～東方妖々夢より～"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/c8/23/21942_YqbFM.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/21942" class="l">幻想万華鏡 春雪異変の章 ～東方妖々夢より～</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/876" title="CLANNAD ～AFTER STORY～"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/67/d1/876_lJkik.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/876" class="l">CLANNAD ～AFTER STORY～</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/22588" title="バクマン。2"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/45/8c/22588_PXu0V.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/22588" class="l">バクマン。2</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/848" title="ハチミツとクローバー II"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/36/2e/848_VvbHu.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/848" class="l">ハチミツとクローバー II</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/10613" title="劇場版 こわれかけのオルゴール"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/e6/9c/10613_sqlb3.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/10613" class="l">劇場版 こわれかけのオルゴール</a></p>
+</li>
+<li class="clearit">
+<a href="/subject/13" title="CLANNAD"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/cover/m/c5/1c/13_rybe6.jpg"></span><span class="overlay"></span></span></a>
+<p class="info"><a href="/subject/13" class="l">CLANNAD</a></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section_line clear"></div>
+        <div class="subject_section">
+<h2 class="subtitle">"Steins;Gate" 的评论</h2>
+<div class="content_inner clearit">
+    <div id="entry_list"><div class="item clearit">
+<p class="cover ll">
+<a href="/blog/275752" title="补完石头门有感，已经补完好久了，现在才写，还是些无关紧要的东西"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/user/l/000/19/78/197842.jpg?r=1458902122" /></span><span class="overlay"></span></span></a>
+</p>
+<div class="entry">
+<h2 class="title"><a href="/blog/275752" class="l">补完石头门有感，已经补完好久了，现在才写，还是些无关紧要的东西</a></h2>
+<div class="time"><span class="tip_j">by <a href="/user/a2294699068" class="l">ryuju</a></span> <small class="time">2017-3-1 07:05</small> <small class="orange">(+4)</small></div>
+<div class="content">特别喜欢嘟嘟噜的口头禅“嘟嘟噜”，于是去找了游戏里的几段音频文件。
+费心费力的搞了好久，犹豫不决之后，选了其中一段嘟嘟噜，做成了手机铃声。
+来电铃声和短信铃声还不一样，兴致勃勃的想试一下自己的成果。
+然后突然意识到，并没有人会给你打电话▇▇▇▇，也并不会有 ... <small><a href="/blog/275752" class="l">(more)</a></small></div>
+<!--<div class="tools"><div class="tags">Tags: 石头门 命运石之门 嘟嘟噜 </div></div>-->
+</div>
+</div><div class="item clearit">
+<p class="cover ll">
+<a href="/blog/275595" title="动画观看日志——M."><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/user/l/000/28/08/280829.jpg?r=1485941084" /></span><span class="overlay"></span></span></a>
+</p>
+<div class="entry">
+<h2 class="title"><a href="/blog/275595" class="l">动画观看日志——M.</a></h2>
+<div class="time"><span class="tip_j">by <a href="/user/liuxiangw2" class="l">liuxiangw2</a></span> <small class="time">2017-2-21 09:47</small> <small class="orange">(+0)</small></div>
+<div class="content">================================以下为回顾=============================
+
+命运石之门
+评分：9.5
+
+吐槽：剧情向神作，在大多都是角色带动剧情剧情为角色服务的作品中，这部只有男主一个角色能拿得出来卖的作品纯靠低开高走的剧情就封了神。前1-11话作了长长的铺垫， ... <small><a href="/blog/275595" class="l">(more)</a></small></div>
+<!--<div class="tools"><div class="tags">Tags: 动画 日志 M </div></div>-->
+</div>
+</div><div class="item clearit">
+<p class="cover ll">
+<a href="/blog/271710" title="アニメ再放送第23話改変版、および特別番組放送のお知らせ"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/user/l/000/00/76/7626.jpg" /></span><span class="overlay"></span></span></a>
+</p>
+<div class="entry">
+<h2 class="title"><a href="/blog/271710" class="l">アニメ再放送第23話改変版、および特別番組放送のお知らせ</a></h2>
+<div class="time"><span class="tip_j">by <a href="/user/sxx" class="l">伊藤誠</a></span> <small class="time">2015-12-3 17:52</small> <small class="orange">(+0)</small></div>
+<div class="content">12月2日（水）25:35～TOKYO MXとニコニコ動画にて放送された第23話にて、
+本来のストーリーとは異なる内容を放送いたしました。
+（BS11では、12/3（木）27:30より改変版第23話を放送予定です。）
+
+#23（β） 境界面上のミッシングリンク Divide by Zero
+脚本 花田十輝 林直孝
+作 ... <small><a href="/blog/271710" class="l">(more)</a></small></div>
+<!--<div class="tools"><div class="tags">Tags: 动画 </div></div>-->
+</div>
+</div><div class="item clearit">
+<p class="cover ll">
+<a href="/blog/271147" title="话说哥喜欢全灭结局"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/user/l/icon.jpg" /></span><span class="overlay"></span></span></a>
+</p>
+<div class="entry">
+<h2 class="title"><a href="/blog/271147" class="l">话说哥喜欢全灭结局</a></h2>
+<div class="time"><span class="tip_j">by <a href="/user/254378" class="l">炎风</a></span> <small class="time">2015-9-1 02:59</small> <small class="orange">(+5)</small></div>
+<div class="content">看动画一向很有耐心，命运石之门的前十集，也没其他人说的那样无聊到了极点，至少我看到了冈部伦太郎对于时空机心态的改变。
+一天24集看下来的感觉简直酸爽！可惜的是，最后的热血结局虽然相当出色，但是一来感觉太赶了，二来……
+哥喜欢全灭结局！
+当然，命运石之门全灭似乎不 ... <small><a href="/blog/271147" class="l">(more)</a></small></div>
+<!--<div class="tools"><div class="tags">Tags: 动画 </div></div>-->
+</div>
+</div><div class="item clearit">
+<p class="cover ll">
+<a href="/blog/46195" title="Steins;Gate动画观后感(整理归档用意)"><span class="pictureFrameGroup"><span class="image"><img src="//lain.bgm.tv/pic/user/l/000/07/11/71136.jpg?r=1329982322" /></span><span class="overlay"></span></span></a>
+</p>
+<div class="entry">
+<h2 class="title"><a href="/blog/46195" class="l">Steins;Gate动画观后感(整理归档用意)</a></h2>
+<div class="time"><span class="tip_j">by <a href="/user/asahinobori" class="l">Xusheng(朝乃)</a></span> <small class="time">2013-6-19 13:41</small> <small class="orange">(+6)</small></div>
+<div class="content">其实这个日志是接上一个日志的--&gt;通关Steins;Gate时的碎碎念(整理归档用意)[http://bangumi.tv/blog/46193]
+
+是发布在Google Plus这个社交平台上的，不过觉得还是整理归档成日志比较好
+
+G+ Link：Post-7[https://plus.google.com/u/0/106396270382612085813/posts ... <small><a href="/blog/46195" class="l">(more)</a></small></div>
+<!--<div class="tools"><div class="tags">Tags: 动画 Steins Gate </div></div>-->
+</div>
+</div></div>
+<div class="rr"><a href="/subject/10380/reviews" class="more">更多影评 »</a></div>
+    	
+</div>
+</div>
+<div class="section_line clear"></div>
+<a name="subject_board"></a>
+<div class="subject_section">
+<h2 class="subtitle">"Steins;Gate" 讨论板</h2>
+
+<table class="topic_list" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:0px;"><tbody><tr><td class="odd"><a href="/subject/topic/6915" title="第23集的β线有没有必要转移到命运石之门0的话数中/或另外建立新条目？" class="l">第23集的β线有没有必要转移到命运石之门0的话数中/或另外建立新条目？</a></td><td class="odd" width="15%"><a href="/user/basertyu">basertyu(流氓豆)</a></td><td class="odd" width="15%" align="right"><small class="grey">10 replies</small></td><td class="odd" width="15%" align="right"><small class="grey">2016-5-19</small></td></tr><tr><td class="even"><a href="/subject/topic/1935" title="面对此等神作，除了颤抖以外，我想不到要其他的反应" class="l">面对此等神作，除了颤抖以外，我想不到要其他的反应</a></td><td class="even" width="15%"><a href="/user/cysckz">科学爱理</a></td><td class="even" width="15%" align="right"><small class="grey">52 replies</small></td><td class="even" width="15%" align="right"><small class="grey">2012-1-8</small></td></tr><tr><td class="odd"><a href="/subject/topic/10410" title="关于世界线跳跃这种事，完全对这种设定无法置信啊" class="l">关于世界线跳跃这种事，完全对这种设定无法置信啊</a></td><td class="odd" width="15%"><a href="/user/vivids">为了道德</a></td><td class="odd" width="15%" align="right"><small class="grey">8 replies</small></td><td class="odd" width="15%" align="right"><small class="grey">2016-10-11</small></td></tr><tr><td class="even"><a href="/subject/topic/3835" title="说到底只有我们镜头所跟踪的这个胸针HE了" class="l">说到底只有我们镜头所跟踪的这个胸针HE了</a></td><td class="even" width="15%"><a href="/user/19546">datura</a></td><td class="even" width="15%" align="right"><small class="grey">3 replies</small></td><td class="even" width="15%" align="right"><small class="grey">2013-10-21</small></td></tr><tr><td class="odd"><a href="/subject/topic/1486" title="中二拯救世界" class="l">中二拯救世界</a></td><td class="odd" width="15%"><a href="/user/53644">无头控</a></td><td class="odd" width="15%" align="right"><small class="grey">1 replies</small></td><td class="odd" width="15%" align="right"><small class="grey">2011-9-16</small></td></tr><tr><td>&nbsp</td><td width="15%"></td><td width="15%"></td><td width="15%" align="right"><a href="/subject/10380/board" class="more">更多讨论 »</a></td></tr>
+</tbody></table>
+
+</div>
+<div class="section_line clear"></div><div class="subject_section">
+<h2 class="subtitle">吐槽箱</h2><div id="comment_box"><div class="item clearit">
+<a href="/user/infrared415" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/23/45/234593.jpg?r=1495578294')"></span></a>
+<div class="text_main_even">
+<div class="text">
+    		<a href="/user/infrared415" class="l">量苛</a> <small class="grey">@ 18h 49m  ago</small> <span class="sstars7 starsinfo"></span>    		<p>我有点讨厌时间穿越，除了小圆那种轮回系，毕竟宗教作品。</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/361711" class="avatar"><span class="avatarNeue avatarSize32 rr" style="background-image:url('//lain.bgm.tv/pic/user/s/000/36/17/361711.jpg?r=1505046200')"></span></a>
+<div class="text_main_odd">
+<div class="text">
+    		<a href="/user/361711" class="l">_Arasa</a> <small class="grey">@ 2d 20h ago</small> <span class="sstars8 starsinfo"></span>    		<p>埋设了13集的伏笔</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/deskon1996" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/36/04/360414.jpg?r=1505281742')"></span></a>
+<div class="text_main_even">
+<div class="text">
+    		<a href="/user/deskon1996" class="l">GlobalWarming</a> <small class="grey">@ 2017-9-13 14:26</small> <span class="sstars10 starsinfo"></span>    		<p>神作不解释</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/diarydaikirai" class="avatar"><span class="avatarNeue avatarSize32 rr" style="background-image:url('//lain.bgm.tv/pic/user/s/000/17/34/173479.jpg?r=1415775431')"></span></a>
+<div class="text_main_odd">
+<div class="text">
+    		<a href="/user/diarydaikirai" class="l">蒼き雫</a> <small class="grey">@ 2017-9-12 14:11</small> <span class="sstars7 starsinfo"></span>    		<p>大概是推过游戏的缘故，对动画感触不深。</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/361639" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/36/16/361639.jpg?r=1505025628')"></span></a>
+<div class="text_main_even">
+<div class="text">
+    		<a href="/user/361639" class="l">发光的球</a> <small class="grey">@ 2017-9-10 14:23</small> <span class="sstars9 starsinfo"></span>    		<p>故事很棒，动画也没有拖后腿</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/360944" class="avatar"><span class="avatarNeue avatarSize32 rr" style="background-image:url('//lain.bgm.tv/pic/user/s/000/36/09/360944.jpg?r=1504742312')"></span></a>
+<div class="text_main_odd">
+<div class="text">
+    		<a href="/user/360944" class="l">承諾</a> <small class="grey">@ 2017-9-7 08:01</small> <span class="sstars10 starsinfo"></span>    		<p>人活着就是为了红莉牺！！！！</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/360833" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/000/36/08/360833.jpg?r=1504692725')"></span></a>
+<div class="text_main_even">
+<div class="text">
+    		<a href="/user/360833" class="l">栗悟饭与龟波功</a> <small class="grey">@ 2017-9-6 18:34</small> <span class="sstars10 starsinfo"></span>    		<p>宇宙第一神作。</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/ifisico" class="avatar"><span class="avatarNeue avatarSize32 rr" style="background-image:url('//lain.bgm.tv/pic/user/s/000/35/26/352640.jpg?r=1505636634')"></span></a>
+<div class="text_main_odd">
+<div class="text">
+    		<a href="/user/ifisico" class="l">IFisico</a> <small class="grey">@ 2017-9-6 08:59</small> <span class="sstars9 starsinfo"></span>    		<p>题材新颖。前几集虽略显平淡，然而之后剧情渐入佳境、扣人心弦。当看到冈部为拯救真由理一次一次地穿越时间，我仿佛也能体会到他的绝望与彷徨的时候，我觉得这就是这部作品的成功之处。结局很圆满，总体来说是不可多得的佳作。</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/285043" class="avatar"><span class="avatarNeue avatarSize32 ll" style="background-image:url('//lain.bgm.tv/pic/user/s/icon.jpg')"></span></a>
+<div class="text_main_even">
+<div class="text">
+    		<a href="/user/285043" class="l">凤凰院的萌神</a> <small class="grey">@ 2017-8-31 17:59</small> <span class="sstars9 starsinfo"></span>    		<p>前期炒鸡慢热，后期停不下来，结局更是达到全剧最高潮，出人意料，细细一想又合乎情理，结局也足够完美，难得的好作品。唯一稍微有一点点觉得可惜的就是由于是游戏改编导致部分角色在动画里没有足够的刻画好，有脸谱化和套路化的地方，不过对于正部作品而言只是微不足道的瑕疵，依旧满满的好评。</p>
+</div>
+</div>
+</div><div class="item clearit">
+<a href="/user/quliriyrn" class="avatar"><span class="avatarNeue avatarSize32 rr" style="background-image:url('//lain.bgm.tv/pic/user/s/000/31/21/312140.jpg?r=1480871544')"></span></a>
+<div class="text_main_odd">
+<div class="text">
+    		<a href="/user/quliriyrn" class="l">QulirIyrn</a> <small class="grey">@ 2017-8-31 12:54</small> <span class="sstars6 starsinfo"></span>    		<p>有BUG，，我觉得这个放到轮回三神作里有些不够格，，也许该去推一推原作？</p>
+</div>
+</div>
+</div></div><a href="/subject/10380/comments" class="more">更多吐槽 »</a>
+</div>        
+</div>
+</div><div id="footer">
+<ul id="footerLinks" class="clearit">
+<li class="first">
+    <dl>
+        <dt>关于我们</dt>
+        <dd><a href="http://bangumi.tv/about">关于我们</a></dd>
+        <dd><a href="http://bangumi.tv/about/guideline">社区指导原则</a><dd>
+        <dd><a href="http://bangumi.tv/about/copyright">版权声明</a><dd>		
+        <dd><a href="http://bangumi.tv/about/link2us">链接我们</a><dd>
+    </dl>
+</li>
+<li>
+    <dl>
+    <dt>获取帮助</dt>
+        <dd><a href="http://bangumi.tv/help/bbcode">BBCode</a></dd>
+        <dd><a href="http://bangumi.tv/group/forum">站务论坛</a></dd>
+        <dd><a href="http://bangumi.tv/group/issues">BUG追踪</a></dd>
+        <dd><a href="http://bangumi.tv/group/doujin">天窗站务</a></dd>		
+    </dl>
+</li>
+<li>
+<dl>
+    <dt>特别推荐</dt>
+        <dd><a href="http://bangumi.tv/award/2016">年鉴 2016</a> |  <a href="http://bangumi.tv/award/2015">15</a> | <a href="http://bangumi.tv/award/2014">14</a> |  <a href="http://bangumi.tv/award/2013">13</a> | <a href="http://bangumi.tv/award/2012">12</a><br />| <a href="http://bangumi.tv/award/2011">11</a> | <a href="http://bangumi.tv/award/2010">10</a></dd>
+        <dd><a href="http://bangumi.tv/group/wiki">番組WIKI計画</a></dd>
+        <dd><a href="http://bangumi.tv/onair">onAir 客户端</a></dd>
+        <dd><a href="http://bangumi.tv/tokei">etokei 绘时计</a></dd>        
+    </dl>
+</li>
+<li class="last">
+    <dl>
+    <dt>更多</dt>
+        <dd><a href="http://bangumi.tv/index">目录</a></dd>
+        <dd><a href="http://bangumi.tv/wiki">维基人</a></dd>
+        <dd><a href="http://bangumi.tv/magi">MAGI 问答</a></dd>
+        <dd><a href="http://bangumi.tv/goodies">周边</a></dd>
+        <dd><a href="http://bangumi.tv/dollars">Dollars</a></dd>	
+    </dl>
+</li>
+</ul>
+
+<small class="grey">&copy; 2008-2017 Bangumi (a.k.a.Chobits), some rights reserved</small>
+</div>
+</div></div>
+<div class="homeBg"></div>
+<div id="dock">
+    <div class="content">
+        <ul class="clearit">
+                <li class="first"><a href="http://bangumi.tv/login">登录</a> | <a href="http://bangumi.tv/signup">注册</a></li>
+                <li class="last"><a href="javascript:void(0);" id="showrobot">&nbsp;</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="robot"  style="display:none;">
+<div id="ukagaka_shell">
+<div class="ui_10 shell_1">
+<div id="ukagaka_voice"></div>
+<div id="robot_balloon" class="ukagaka_balloon_pink">
+    <div class="inner">
+<div id="robot_speech" class="speech" >
+没<a href="signup"  class="nav">注册</a>时我很沉默</div>
+<div id="robot_speech_js" class="speech">
+    </div>
+</div>
+<div class="ukagaka_balloon_pink_bottom"></div>	
+</div>
+</div>
+</div>
+</div>
+<script src="/min/g=js?r280" type="text/javascript"></script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4049707-6']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function () {
+    $(document).share({
+        title: '「Steins;Gate」(来自 Bangumi 番组计划)',
+        content: "",
+        url: document.URL    });
+});
+</script>
+<script type="text/javascript">chiiLib.subject.init();</script>
+</body></html>
