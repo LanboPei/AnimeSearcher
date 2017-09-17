@@ -1,5 +1,9 @@
 import webbrowser
 
 
-url = "http://www.baidu.com"
-webbrowser.open(url)
+##url = "http://www.baidu.com"
+##webbrowser.open(url)
+
+
+
+print("\"")
