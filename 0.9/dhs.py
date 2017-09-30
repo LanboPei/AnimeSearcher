@@ -7,10 +7,23 @@ urlopen with Chinese input
 https://www.zhihu.com/question/22899135
 '''
 
+DHS_WIDTH = 400
+DHS_HEIGHT = 200
+
 AnimeName = ''
 URL = ''
 Rating = ''
 RText = "Rating in Bangumi:    "
+    
+
+def prePosition(root):
+    w = root.winfo_screenwidth()
+    h = root.winfo_screenheight()
+    dw = DHS_WIDTH
+    dh = DHS_HEIGHT
+    pw = int(abs((DHS_WIDTH - w) / 2))
+    ph = int(abs((DHS_HEIGHT -h) / 2))
+    root.geometry("{}x{}+{}+{}".format(DHS_WIDTH, DHS_HEIGHT, pw, ph))
     
 
 def goSearch():
@@ -43,7 +56,7 @@ def enterBangumi(event):
 if __name__ == "__main__":
     root = Tk()
 
-
+    prePosition(root) #position the window
 
     e = Entry(root)
     e.bind('<Key-Return>', enterSearch) #keyboard binding
