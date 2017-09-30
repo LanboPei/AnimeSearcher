@@ -15,6 +15,8 @@ RText = "Rating in Bangumi:    "
 
 def goSearch():
     name = e.get()
+    if name == '':
+        return
     name = parseZH(name)
     
     global Rating
@@ -27,6 +29,15 @@ def parseZH(zhString):
 
 def goBangumi():
     webbrowser.open(URL)
+
+def enterSearch(event):
+    goSearch()
+
+def enterBangumi(event):
+    goBangumi()
+
+##def pprint(event):
+##    print("teseste\n")
     
 
 if __name__ == "__main__":
@@ -35,7 +46,9 @@ if __name__ == "__main__":
 
 
     e = Entry(root)
+    e.bind('<Key-Return>', enterSearch) #keyboard binding
     e.pack()
+    e.focus() #get default focus
 
     b1 = Button(root, text = "Search", command = goSearch)
     b1.pack()
@@ -44,6 +57,7 @@ if __name__ == "__main__":
     t1.pack()
 
     b2 = Button(root, text = "Go Bangumi", command = goBangumi)
+    b2.bind('<Key-Return>', enterBangumi)
     b2.pack()
 
     root.mainloop()
