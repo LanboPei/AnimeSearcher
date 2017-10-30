@@ -63,18 +63,18 @@ class DHS:
             name = parseZH(name)
             rating, self.url = search(name)
             t = self.text["rating"]
-            t['text'] = BGMText[:-3] + Rating
+            t['text'] = BGMText[:-3] + rating
 
 
 
     def goBangumi(self):
         webbrowser.open(self.url)
 
-    def enterSearch(self, event):  #key-binding receive an "event" parameter
-        self.goSearch()
-
-    def enterBangumi(self, event):
-        self.goBangumi()
+##    def enterSearch(self, event):  #key-binding receive an "event" parameter
+##        self.goSearch()
+##
+##    def enterBangumi(self, event):
+##        self.goBangumi()
 
     def prompt(self, refer):
         top = Toplevel(self.root)
@@ -92,10 +92,14 @@ class DHS:
         x, y = calCenXY(self.sw, self.sh, w, h)
         top.geometry("{}x{}+{}+{}".format(w, h, x, y))
 
-        button = Button(top, text='OK', command=top.destroy)
-        button.pack()
+        b = Button(top, text='OK', command=top.destroy)
+        b.bind('<Key-Return>', lambda event:top.destroy())
+        b.pack()
+        b.focus()
 
     #def promptInit(self, txt):
+
+    #def enterDestroy(self, widget)
 
         
 
@@ -125,7 +129,9 @@ if __name__ == "__main__":
     dhs.prePosition() #position the window
 
     e = dhs.newEntry("search")
-    e.bind('<Key-Return>', dhs.enterSearch) #keyboard binding
+    e.bind('<Key-Return>', lambda event:dhs.goSearch()) #keyboard binding
+                                                        #using lambda exp to
+                                                        #avoid def trivial func
     e.pack()
     e.focus() #get default focus
 
@@ -136,7 +142,7 @@ if __name__ == "__main__":
     t1.pack()
 
     b2 = dhs.newButton("goBGM", "Go Bangumi", dhs.goBangumi)
-    b2.bind('<Key-Return>', dhs.enterBangumi)
+    b2.bind('<Key-Return>', lambda event:dhs.goBangumi())
     b2.pack()
 
     dhs.start()

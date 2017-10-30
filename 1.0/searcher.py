@@ -23,7 +23,10 @@ def getURL(sourceCode):
 
 
 def getRating(sourceCode):
-    i = sourceCode.find("fade") + 6
+    i = sourceCode.find("fade")
+    if i == -1:
+        return '   '
+    i += 6
     return sourceCode[i:i+3]
 
 
