@@ -1,9 +1,14 @@
-asdf
 angel beats
 魔法的禁书目录
 
 
 
 
+completed:
+empty prompt
+less than 10 votes
+
+
 todo:
-empty/no result prompt
+part recog/multi distinguish
+no result prompt
