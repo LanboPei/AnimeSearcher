@@ -4,12 +4,20 @@ b. 命运石之门
 c. 魔法的禁书目录
 d. asdf
 e. 
+f. ANGEL BEATS
+g. steins;gate
+h. STEINS;GATE
+i. aaaa
 
 
 Completed:
-1
+[1, 2]
 
-Todo:
+
+Else:
+[3, 4, 5, 6]
+
+
 
 
 1. Empty Input
@@ -21,27 +29,76 @@ The empty string(nothing).
 Expected Output:
 Pop up a prompt to suggest the user to input anime name.
 
-Output:
-(e) As expected.
+Test Result:
+(e) pass.
 
 
 2. Multi-results Distinguish
 
 Input:
-Arbitrary anime name that will return multiple results.
-(a, b and c)
+Anime name that the search will return multiple results.
+(b and c)
+
+Expected Output:
+Return rating and url of the wanted result.
+
+Test Result:
+(b) pass.
+(c) pass.
 
 
+3. Less than 10 Votes
+
+Input:
+Anime name of which the number of votes on the rating are less 10.
+(d)
+
+Expected Output:
+Return "N/A" to indicate the rating is not available.
+
+Test Result:
+(d) error.
 
 
+4. Alternative Names (in other language)
 
-completed:
-multi results distinguish
-less than 10 votes
+Input:
+Anime with multiple names in different languages.
+(b and g)
+
+Expected Output:
+Return rating and url of the wanted result.
+
+Test Result:
+
+
+5. Case Insensitive
+
+Input:
+Anime name in both upper and lower letters.
+(a, f, g and h)
+
+Expected Output:
+Return rating and url of the wanted result.
+
+Test Result:
+
+
+6. No Result
+
+Input:
+Anime name that the search will return no result.
+(i)
+
+Expected Output:
+Pop up a prompt to inform the user that there is no result found.
+
+Test Result:
+
+
 
 
 todo:
-title
-upper/lower letter
-part recog/
-no result prompt(aaaa)
+Main window and prompt window title
+Recognition from only part of the anime name
+Multi-season series anime searching logic
