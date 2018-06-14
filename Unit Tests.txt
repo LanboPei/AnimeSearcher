@@ -1,0 +1,47 @@
+Animes/inputs:
+a. angel beats
+b. 命运石之门
+c. 魔法的禁书目录
+d. asdf
+e. 
+
+
+Completed:
+1
+
+Todo:
+
+
+1. Empty Input
+
+Input:
+The empty string(nothing).
+(e)
+
+Expected Output:
+Pop up a prompt to suggest the user to input anime name.
+
+Output:
+(e) As expected.
+
+
+2. Multi-results Distinguish
+
+Input:
+Arbitrary anime name that will return multiple results.
+(a, b and c)
+
+
+
+
+
+completed:
+multi results distinguish
+less than 10 votes
+
+
+todo:
+title
+upper/lower letter
+part recog/
+no result prompt(aaaa)
