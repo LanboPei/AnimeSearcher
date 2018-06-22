@@ -1,5 +1,3 @@
-'''# -*- coding: GBK -*-
-'''
 from tkinter import *  #Library: Python's de-facto standard GUI, including Tk
 import webbrowser      #Module
 from searcher import * #Local: search engine
@@ -15,7 +13,6 @@ WIDTH = 400 #Width of main window
 HEIGHT = 200 #Height of main window
 XOFFSET = 0 #X dimension offset of main window, if needed
 YOFFSET = 0 #Y dimension offset of main window, if needed
-
 
 ENTER_RETURN = '<Key-Return>'
 
@@ -40,17 +37,6 @@ class DHS:
         
         @param width: The width of the application window.
         @param height: The height of the application windwo.
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
-        @param w:
         @param xoffset: The X dimension offset for the window. Default 0 means
                         the middle of the x-axis of the screen, + means right
                         side and - means left side.
@@ -65,14 +51,10 @@ class DHS:
         self.h = height
         self.xo = xoffset
         self.yo = yoffset
-        #self.anime = ''
-        self.url = ''
-        #self.rateing = 0.0 #change "rating" from str to float
-        #self.sw = root.winfo_screenwidth()
-        #self.sh = root.winfo_screenheight()        
+        self.url = ''     
         self.text = {}
-        #self.button = {}
         self.entry = {}
+
 
     def prePosition(self):
         '''
@@ -87,6 +69,7 @@ class DHS:
             #window, and x, y coordinates of top left corner of the window on
             #the screen. It then sets the right position of the window according
             #to these input.
+
 
     def getXY(self, winWidth, winHeight):
         '''
@@ -104,6 +87,7 @@ class DHS:
             #with window's width and height, as well as the offsets, calculate
             #final x, y.
         return x, y
+
 
     def newEntry(self, name, binding=None):
         '''
@@ -123,6 +107,7 @@ class DHS:
                  #tkinter object instances.
         return e
 
+
     def newButton(self, name, txt, cmd, binding=None):
         '''
         Return a Button object. Create a new Button in the window.
@@ -139,8 +124,8 @@ class DHS:
         if binding:
             b.bind(binding[0], binding[1])
         b.pack()
-        #self.button[name] = b
         return b
+
 
     def newText(self, name, txt):
         '''
@@ -156,6 +141,7 @@ class DHS:
         t.pack()
         self.text[name] = t
         return t
+
 
     def goSearch(self):
         '''
@@ -179,15 +165,9 @@ class DHS:
                 t['text'] = BGMText + rating
 
 
-
     def goBangumi(self):
         webbrowser.open(self.url)
 
-##    def enterSearch(self, event):  #key-binding receive an "event" parameter
-##        self.goSearch()
-##
-##    def enterBangumi(self, event):
-##        self.goBangumi()
 
     def prompt(self, txt):
         '''
@@ -202,8 +182,6 @@ class DHS:
             txt = PROMPT_EMPTY #empty prompt here
         elif not txt:
             txt = PROMPT_NO_RESULT
-
-        #top.geometry("400x100")
         
         msg = Message(top, text=txt, width=600)
         msg.pack()
@@ -217,19 +195,9 @@ class DHS:
         b.pack()
         b.focus()
 
-    #def promptInit(self, txt):
-
-    #def enterDestroy(self, widget)
-
-        
 
     def start(self):
         self.root.mainloop()
-
-
-
-#def pprint(event):
-#    print("teseste\n")
     
 
 if __name__ == "__main__":
@@ -240,7 +208,6 @@ if __name__ == "__main__":
         #Keyboard binding this Entry and the return/enter key, so that start
         #searching right after name input and return/enter key pressing. Use
         #lambda exp to avoid defing a trivial function.
-    #e.pack()
     e.focus() #get default focus
 
     b1 = dhs.newButton("search", "Search", dhs.goSearch)

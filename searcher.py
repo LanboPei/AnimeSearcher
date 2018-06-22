@@ -1,5 +1,3 @@
-'''# -*- coding: GBK -*-
-'''
 import urllib.request
 #import requests
 from lxml import etree ##for opening URL
@@ -24,7 +22,6 @@ Bangumi = "http://bangumi.tv"
 noRating = "N/A"
 
 
-
 def search(name):
     '''
     Return the rating and page url of the searched anime on Bangumi.
@@ -35,23 +32,14 @@ def search(name):
     bgmName = name.replace(' ', '+') #Format in BGM searching url
     if not bgmName.encode('UTF-8').isalpha():
         bgmName = parseZH(bgmName)
-##    if len(namewords) == 1:
-##        name = namewords[0]
-##    else:
-##        for w in namewords:
-##            name += w
-##            name += '+'
-##        name = name[:-1]
     pageURL = "http://bangumi.tv/subject_search/{}?cat=2".format(bgmName)
-#    resource = requests.get(pageURL).text
     source = getSourceCode(pageURL) #Request source code
     return filtered(source, name)
-        #Analyse source code to find most appropriate result, then return
+        #Analyse source code to find most appropriate result, then return.
 
 
 def parseZH(zhString):
     return urllib.parse.quote(zhString)
-
 
 
 def getSourceCode(url):
@@ -59,8 +47,6 @@ def getSourceCode(url):
         return urllib.request.urlopen(url).read()
     except urllib.error.URLError:
         return getSourceCode(url)
-
-
 
 
 def filtered(source, name):
@@ -94,9 +80,9 @@ def filtered(source, name):
         
         date = div.xpath('p[1]/text()')[0]
         dayi = date.find('日')
-        # Find the index to save exact date info and strip all others. Sometimes
-        # there is only year but no '日' character; strip the spaces directly in
-        # this case
+            #Find the index to save exact date info and strip all others.
+            #Sometimes there is only year but no '日' character; strip the spaces
+            #directly in this case.
         if dayi == -1:
             date = date.strip()
         else:
@@ -111,90 +97,6 @@ def filtered(source, name):
             ratings.append(rating)
         else:
             ratings.append(noRating)
-    
-    #t1 = divs[1].xpath('h3/a/text()')
-    #b1 = divs[5].xpath('boolean(span)')
-    #b2 = divs[6].xpath('boolean(span)')
-    #b3 = divs[7].xpath('boolean(p[1])')
-    #b4 = divs[7].xpath('boolean(p[2])')
-    #b5 = divs[8].xpath('boolean(p[1])')
-    #b6 = divs[8].xpath('boolean(p[2])')
-    ##ps = tree.xpath('//p[parent::div]')
-    ##pst = tree.xpath('//p[@]/text()')
-
-    #titles = tree.xpath('//h3/a/text()')
-    
-    #dates = tree.xpath('//p[@class="info tip"]/text()')
-    #for i in range(len(dates)):
-        #date = dates[i]
-        #dates[i] = date[:date.find('日') + 1].strip()
-
-    #links = tree.xpath('//h3/a/@href')
-
-    #ratings = tree.xpath('//small[@class="fade"]/text()')
-
-    #removeInds = []
-    #for i in range(len(titles)):
-        #if not nameMatch(titles[i], namewords):
-            #removeInds.append(i)
-    #for i in range(len(removeInds)):
-        #removeInds[i] = removeInds[i] - i
-    #for ind in removeInds:
-        #dates.pop(ind)
-        #links.pop(ind)
-        #ratings.pop(ind)
 
     ind = dates.index(min(dates))
     return ratings[ind], Bangumi + links[ind]
-    
-#    sc = urllib.request.urlopen(URL).read().decode()
-
-#    sc, URL = getURL(sc)
-#    Rating = getRating(sc)
-    
-#    return Rating, URL
-
-##    return "7.2", "http://bangumi.tv/subject/9781"
-
-
-
-
-
-##def nameMatch(title, name):
-##    '''
-##    Return a "matched" that represents if every keyword searched in 
-##    keyword list "words" exists in title "t".
-##    
-##    Keywords have been parsed before being sent to this searcher module, so only
-##    parse the title got from the web here. Set a flag to True first, and then 
-##    check every word: if any word is found not matching, terminate the check and
-##    return False.
-##    '''
-##    t = parseZH(t)
-##    matched = True
-##    for w in words:
-##        if w.lower() not in t.lower():
-##            matched = False
-##            break
-##    return matched
-
-##def getURL(sourceCode):
-##    i = sourceCode.find("/subject/")
-##    sc = sourceCode[i:]
-##    i = sc.find("\"")
-##    return sc, Bangumi + sc[:i]
-##
-##
-##def getRating(sourceCode):
-##    i = sourceCode.find("fade")
-##    if i == -1:
-##        return '   '
-##    i += 6
-##    return sourceCode[i:i+3]
-
-
-
-
-
-
-##search("gosick")
